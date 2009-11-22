@@ -1,0 +1,5 @@
+inherit qt3
+
+DESCRIPTION="LADSPA extension for instruments"
+HOMEPAGE="http://dssi.sourceforge.net/"
+SRC_URI="mirror://sourceforge/dssi/${P}.tar.gz"
